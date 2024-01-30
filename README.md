@@ -13,7 +13,7 @@ $\epsilon_{I,II}$ the eigen mode emittances for modes $I$ and $II$.
 
 Based on the parametrization from Lebedev-Bogatz
 
-$$
+$
   \vec{z} = \frac{1}{2}\sqrt{\epsilon_{I}}\vec{v}_{I}e^{i\psi_{I}} + \frac{1}{2}\sqrt{\epsilon_{II}}\vec{v}_{II}e^{i\psi_{II}} + C.C
-$$
+$
 Where, $C.C$ stands for complex conjugate
