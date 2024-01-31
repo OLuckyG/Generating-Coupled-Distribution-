@@ -1,4 +1,4 @@
-# Generating-Coupled-Distribution-
+# Generating-Coupled-Distribution
 Generating 4-D Coupled Gaussian Distribution
 
 This python script generates a 4-D coupled gaussian distribution. With coupled functions:
