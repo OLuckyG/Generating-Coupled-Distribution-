@@ -1,4 +1,6 @@
 # Generating-Coupled-Distribution
+
+# coupled_dist.py file:
 Generating 4-D Coupled Gaussian Distribution
 
 This python script generates a 4-D coupled gaussian distribution. With coupled functions:
@@ -12,4 +14,10 @@ $u$ the coupling strength parameter, $\nu_{I,II}$ the phases of coupling in mode
 $\epsilon_{I,II}$ the eigen mode emittances for modes $I$ and $II$.
 
 Based on the parametrization from Lebedev-Bogatz
+
+# eigenparameters.py file:
+
+Once the distribution is created, if a file is generated with it, eigenparameters.py file can calculate the eigen mode parameters:
+
+It calculates: $\epsilon_{I,II}$ and $\epsilon_{x,y}$ from distribution.
 
